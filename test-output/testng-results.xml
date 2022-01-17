@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44726" started-at="2022-01-07T08:39:27Z" finished-at="2022-01-07T08:40:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44726" started-at="2022-01-07T08:39:27Z" finished-at="2022-01-07T08:40:12Z">
+      <class name="com.frametestng.ClassC">
+        <test-method status="PASS" signature="fireFoxBrowser(java.lang.String)[pri:0, instance:com.frametestng.ClassC@31610302]" name="fireFoxBrowser" duration-ms="12096" started-at="2022-01-07T08:40:00Z" finished-at="2022-01-07T08:40:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://adactinhotelapp.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireFoxBrowser -->
+      </class> <!-- com.frametestng.ClassC -->
+      <class name="com.frametestng.ClassA">
+        <test-method status="PASS" signature="chromeLaunch(java.lang.String)[pri:0, instance:com.frametestng.ClassA@31dc339b]" name="chromeLaunch" duration-ms="13471" started-at="2022-01-07T08:39:27Z" finished-at="2022-01-07T08:39:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://adactinhotelapp.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+      </class> <!-- com.frametestng.ClassA -->
+      <class name="com.frametestng.ClassB">
+        <test-method status="PASS" signature="edgeBrowser(java.lang.String)[pri:0, instance:com.frametestng.ClassB@544fe44c]" name="edgeBrowser" duration-ms="19064" started-at="2022-01-07T08:39:41Z" finished-at="2022-01-07T08:40:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://adactinhotelapp.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeBrowser -->
+      </class> <!-- com.frametestng.ClassB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
