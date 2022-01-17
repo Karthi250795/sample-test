@@ -17,10 +17,14 @@ public class ClassA {
 		driver.get(url);
 		
 		
+<<<<<<< HEAD
+System.out.println("perf operation");
+=======
 		System.out.println("Dev operation");
 		
 		
 
+>>>>>>> f02dfd906fe958d9a99d54a7c4ef5f31522dc9f9
 	}
 
 }
